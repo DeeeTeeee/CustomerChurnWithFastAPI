@@ -7,9 +7,7 @@ Develop a Machine Learning API (Application Programming Interface) using FastAPI
 
 ## Introduction
 
-This is the last project of the program, congratulations for all the work done until now.
-
-In this project, we aim to help you to discover how to create an API that might be requested to interact with a ML model. This is an interesting solution when you want to keep your model architecture secret or to make your model available to users already having an API. By creating an API, and deploying it, your model can so that receive request using the internet protocol as presented by the illustration below.
+In this project, I aim to discover how to create an API that might be requested to interact with a ML model. This is an interesting solution when you want to keep your model architecture secret or make your model available to users who already have an API. By creating an API and deploying it, my model can receive request using the internet protocol as presented by the illustration below.
 
 ![API illustration](https://lh3.googleusercontent.com/-qVJ4ZsbjsmH6CnYbojsAR4ImyHV8yxsFVinunH-pX7VCapGvufcXiPak6YVKIrj9ZdiCHwK5UFtQW8yuU5t83pz6fbqN1F2p74OWuT5dObCPnTBuCYr_P1mUg8arbP0WuEt7j_A)
 
@@ -22,7 +20,7 @@ In this project, we aim to help you to discover how to create an API that might 
 [FastAPI](https://fastapi.tiangolo.com/) # 
 -->
 
-You will have a minimal API demo with [FastAPI](https://fastapi.tiangolo.com/), this will just serve you to make sure that everything works correctly. Then, you will have to make your own API, this allowing you to interact with a Machine Learning model, that is to say:
+I made my own API, this allowing me to interact with a Machine Learning model, that is to say:
 - Pass data through a request;
 - Get the data in using the API;
 - Apply the necessary processing;
@@ -31,36 +29,15 @@ You will have a minimal API demo with [FastAPI](https://fastapi.tiangolo.com/), 
 
 ## Instructions
 
-Your task is to build an API integrating a ML model using FastAPI.
-Clone this repository to use it as a template, do not forget to change the readme at the end of the project.
-Your work should follow these next steps.
+Task is to build an API integrating a ML model using FastAPI.
 
-1.  Build a ML model to predict the [Sepsis](https://www.kaggle.com/datasets/chaunguynnghunh/sepsis?select=README.md), during the 2 first weeks. 
+1.  Build a ML model to predict the [Sepsis](https://www.kaggle.com/datasets/chaunguynnghunh/sepsis?select=README.md). 
 
-2.  Build an API using Fast API, during the remaining weeks, to embed the ML model built.
+2.  Build an API using Fast API to embed the ML model built.
 
-
-Upon completion of your project, you are required to write a blog post
-on your thought process on medium, LinkedIn, personal blog, or any other
-suitable blogging site.
 
 ## Rubrics
 
-Machine Learning :
-
--   **Excellent:** Have a pipeline/function that takes inputs and make accurate predictions.
-
--   **Good:** Have a pipeline/function that takes inputs and make predictions.
-
--   **Fair:** Have a pipeline/function that takes inputs but faces bugs while doing predictions.
-
-API :
-
--   **Excellent:** Have an API that works correctly, taking inputs multiple inputs and returning all the related predictions.
-
--   **Good:** Have an API that launches, makes predictions and returns results.
-
--   **Fair:** Have an API that launches but having bugs regarding inputs handling or returning predictions.
 
 ## Setup
 
@@ -129,16 +106,7 @@ Here are some ressources you would read to have a good understanding of FastAPI 
 - [Http status codes](https://www.linkedin.com/feed/update/urn:li:activity:7017027658400063488?utm_source=share&utm_medium=member_desktop)
 
 
-
-
-
-## Contributing
-
-Feel free to make a PR or report an issue 😃.
-
-Oh, one more thing, please do not forget to put a description when you make your PR 🙂.
-
 ## Author
 
-- [Emmanuel KOUPOH](https://www.linkedin.com/in/esa%C3%AFe-alain-emmanuel-dina-koupoh-7b974a17a/)
-[![My Twitter Link](https://img.shields.io/twitter/follow/emmanuelkoupoh?style=social)](https://twitter.com/emmanuelkoupoh)
+- [David Anifowoshe](https://www.linkedin.com/in/tomwa-anifowoshe/)
+[![My Twitter Link](https://img.shields.io/twitter/follow/DavidOAnny?style=social)](https://twitter.com/DavidOAnny)
