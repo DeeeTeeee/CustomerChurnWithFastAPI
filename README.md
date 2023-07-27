@@ -108,5 +108,8 @@ Here are some ressources you would read to have a good understanding of FastAPI 
 
 ## Author
 
-- [David Anifowoshe](https://www.linkedin.com/in/tomwa-anifowoshe/)
+# [David Anifowoshe](https://www.linkedin.com/in/davidanifowoshe/)
 [![My Twitter Link](https://img.shields.io/twitter/follow/DavidOAnny?style=social)](https://twitter.com/DavidOAnny)
+[![My LinkedIn Link](https://img.shields.io/badge/LinkedIn/in/david-anifowoshe-294b01224?style=for-the-badge&logo=linkedinlogoColor=white)]((https://www.linkedin.com/in/tomwa-anifowoshe))
+
+## [Emailme](david.olatomiwa@yandex.com)
